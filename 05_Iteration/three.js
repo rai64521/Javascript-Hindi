@@ -29,3 +29,14 @@ for (const [key,values] of map) {
 
     console.log(key,':-', values);    
 }
+
+const myObject = {
+    'game1':'NFS',
+    'game2':'Spiderman'
+}
+
+// for (const [key, values] of myObject) {
+//     console.log(key, ':-', values);
+    
+    
+// }
